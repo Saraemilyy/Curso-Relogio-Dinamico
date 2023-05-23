@@ -1,0 +1,60 @@
+
+body{
+  width: 100%;
+  background-image: linear-gradient(90deg, 	#F0E68C, #FAFAD2);;
+}
+
+header{
+  text-align: center;
+  color: #000;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+header:hover{
+  color: white;
+}
+
+#titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.conteudo-site{
+  background: #4B0082;
+  color: #fff;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 5px 5px 10px rgb(23, 22, 22);
+  align-items: center;
+  text-align: center;
+}
+
+#imagem {
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+
+}
+
+#msg{
+  text-align: center;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.foto{
+  border-radius: 100px black solid;
+}
+
+
+#rodape{
+  text-align: center;
+  margin: auto;
+  padding: 15px;
+  transition: 0.2s;
+}
+
+#rodape:hover{
+color: #fff;
+}
